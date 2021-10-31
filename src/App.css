@@ -1,0 +1,13 @@
+
+.card{
+  width: 12.5rem;
+  border: 1px solid gray;
+  padding: 10px;
+  margin: 10px;
+}
+
+.img__Card{
+  width: 12rem;
+  height: auto;
+  justify-self: center;
+}
